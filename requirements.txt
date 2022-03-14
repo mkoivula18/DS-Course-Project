@@ -1,0 +1,7 @@
+Flask==2.0.2
+Flask-Caching==1.10.1
+Flask-RESTful==0.3.9
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.31
+gunicorn
+psycopg2-binary==2.9.3
